@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: olympic-api-config
 data:
- PORT : 8080
- DBSTRING : mongodb+srv://swarajbaswad:swaraj@practice.vj5pkpj.mongodb.net/
+ PORT : '8080'
+ DBSTRING : "mongodb+srv://swarajbaswad:swaraj@practice.vj5pkpj.mongodb.net/"
